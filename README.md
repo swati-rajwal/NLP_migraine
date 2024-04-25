@@ -3,6 +3,7 @@ AMIA Summits on Translational Science Proceedings, 2023
 
 # 🎯Pipeline
 ![image](https://github.com/swati-rajwal/NLP_migraine/assets/145946818/c13dbc4b-e2c2-4f5f-9344-2b6c003c4315)
+Fig. 1: Framework of proposed generalizable NLP system— Model development and validation on Twitter data followed by additional evaluation on Reddit posts.
 
 # 🚩Objectives
 In this paper, we
@@ -10,7 +11,10 @@ In this paper, we
 2. Develop a platform-independent text classification system for automatically detecting self-reported migraine-related posts, and
 3. Conduct analyses of the self-reported posts to assess the utility of social media for studying this problem.
 
-# 🏃‍♂️Running the Code
+# 🏃‍♂️Results
+![chart](https://github.com/swati-rajwal/NLP_migraine/assets/145946818/805a58ee-ec9c-403e-ab7e-92738cf0277f)
+
+Fig. 2: Sentiment distribution statistics for each medication group in Reddit datasets.
 
 # 📚Citation
 Please consider citing 📑 our paper if our repository is helpful to your work.
