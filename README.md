@@ -2,7 +2,7 @@
 AMIA Summits on Translational Science Proceedings, 2023
 
 # 🎯Pipeline
-![image](assets\framework.png)
+![image](/assets/framework.png)
 Fig. 1: Framework of proposed generalizable NLP system— Model development and validation on Twitter data followed by additional evaluation on Reddit posts.
 
 # 🚩Objectives
@@ -12,7 +12,8 @@ In this paper, we
 3. Conduct analyses of the self-reported posts to assess the utility of social media for studying this problem.
 
 # 🏃‍♂️Results
-![image](assets\sentimentdistribution.png)
+![image](/assets/sentimentdistribution.png)
+
 Fig. 2: Sentiment distribution statistics for each medication group in Reddit datasets.
 
 # 📚Citation
