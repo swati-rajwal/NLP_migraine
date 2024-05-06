@@ -1,4 +1,4 @@
-# classification
+# Twitter Dataset Classification
 
 The `data_sample` folder provides some samples. The codes should be able to run on the samples directly.
 
